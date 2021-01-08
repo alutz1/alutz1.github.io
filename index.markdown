@@ -13,4 +13,4 @@ This page is still under construction and will be updated frequently.
 
 Using a Fully Convolutional Network, we can predict the presence of pneumonia from chest x-rays
 
-[Notebook](./Pneumonia/Pneumonia.ipynb)
+[Notebook](./Pneumonia/Pneumonia.html)
