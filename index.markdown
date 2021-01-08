@@ -9,4 +9,8 @@ This page is still under construction and will be updated frequently.
 
 # Data Science Projects
 
-Coming Soon!
+## Classifying Pneumonia
+
+Using a Fully Convolutional Network, we can predict the presence of pneumonia from chest x-rays
+
+[Notebook](./Pneumonia/Pneumonia.ipynb)
