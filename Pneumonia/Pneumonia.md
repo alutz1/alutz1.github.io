@@ -478,7 +478,4 @@ For comparison, in the paper "*Diagnostic Accuracy of Chest x-Ray and Ultrasonog
 
 In conclusion, we can see how effectively an FCN can classify images of various sizes and how relatively straightforward its implementation is using the Tensorflow Keras Library.
 
-
-```python
-
-```
+[Home](../)
