@@ -15,3 +15,8 @@ Using a Fully Convolutional Network, we can predict the presence of pneumonia fr
 
 We salvage an observational sample to reproduce the NSW Demonstration experiment. 
 Using causal inference, we can isolate the effect of the NSW program on participants' income.
+
+## [Sensitivity and the FARC deal](./Sensitivity/Sensitivity.html)
+
+How well does a model hold up when incorporating unknown information? 
+We derive some helpful ways to think about regression sensitivity and attempt to reproduce the findings of a recent paper on the FARC peace agreement.
